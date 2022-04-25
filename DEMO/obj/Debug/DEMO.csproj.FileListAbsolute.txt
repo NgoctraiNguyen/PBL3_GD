@@ -1,0 +1,11 @@
+D:\Visual Studio\PBL3_GD\DEMO\bin\Debug\DEMO.exe.config
+D:\Visual Studio\PBL3_GD\DEMO\bin\Debug\DEMO.exe
+D:\Visual Studio\PBL3_GD\DEMO\bin\Debug\DEMO.pdb
+D:\Visual Studio\PBL3_GD\DEMO\obj\Debug\DEMO.csproj.AssemblyReference.cache
+D:\Visual Studio\PBL3_GD\DEMO\obj\Debug\DEMO.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\PBL3_GD\DEMO\obj\Debug\DEMO.Form1.resources
+D:\Visual Studio\PBL3_GD\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+D:\Visual Studio\PBL3_GD\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+D:\Visual Studio\PBL3_GD\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+D:\Visual Studio\PBL3_GD\DEMO\obj\Debug\DEMO.exe
+D:\Visual Studio\PBL3_GD\DEMO\obj\Debug\DEMO.pdb

@@ -86,5 +86,44 @@
   <ItemGroup>
     <None Include="Resources\z3281242350681_86a48456ec48588b3a3e59874ddf9ac31.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ba.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\footballer-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\footballer-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\footballer-icon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\footballer-icon3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nv.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-juan-salamanca-61143.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-nmr-hrd-3571065.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-torsten-dettlaff-102448.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\register.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soccer-Ball-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users-icon1.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
