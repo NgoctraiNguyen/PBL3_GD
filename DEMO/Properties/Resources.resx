@@ -118,49 +118,52 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="z3281242350681_86a48456ec48588b3a3e59874ddf9ac3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\z3281242350681_86a48456ec48588b3a3e59874ddf9ac3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="z3281242350681_86a48456ec48588b3a3e59874ddf9ac31" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\z3281242350681_86a48456ec48588b3a3e59874ddf9ac31.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ba" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ba.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="footballer-icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\footballer-icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="footballer-icon1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\footballer-icon1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="register" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\register.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="footballer-icon2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\footballer-icon2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="footballer-icon3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\footballer-icon3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="nv" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\nv.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="pexels-juan-salamanca-61143" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pexels-juan-salamanca-61143.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="z3281242350681_86a48456ec48588b3a3e59874ddf9ac31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\z3281242350681_86a48456ec48588b3a3e59874ddf9ac31.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="pexels-nmr-hrd-3571065" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pexels-nmr-hrd-3571065.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="pexels-torsten-dettlaff-102448" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pexels-torsten-dettlaff-102448.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="z3281242350681_86a48456ec48588b3a3e59874ddf9ac3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\z3281242350681_86a48456ec48588b3a3e59874ddf9ac3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="register" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\register.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="nv" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nv.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Soccer-Ball-icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Soccer-Ball-icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="users-icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\users-icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="footballer-icon1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\footballer-icon1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="users-icon1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\users-icon1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="footballer-icon3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\footballer-icon3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="users-icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\users-icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="footballer-icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\footballer-icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pexels-juan-salamanca-61143" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pexels-juan-salamanca-61143.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pexels-torsten-dettlaff-102448" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pexels-torsten-dettlaff-102448.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ba" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ba.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3009.jpg_wh860" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3009.jpg_wh860.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
